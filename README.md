@@ -1,7 +1,5 @@
 # Tarjan-s-Algorithm
-Certainly! Here's an example README file for the given code:
 
-# Bridge Detection in Graphs
 This repository contains a C++ program that detects bridges in an undirected graph using depth-first search (DFS) algorithm.
 
 # Introduction
